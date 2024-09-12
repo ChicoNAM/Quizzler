@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Who is the main protagonist of Dragon Ball?",
+        "choices" : ["Vegeta", "Son Goku", "Piccolo", "Yamchu"],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of Goku's signature attack?",
+        "choices": ["Kamehameha", "Kaio-ken", "Masenko", "Ki Blast"],
+        "answer": 0
+    },
+    {
+        "question": "Who is Goku's brother?",
+        "choices": ["Vegeta", "Bardock", "Nappa", "Radditz"],
+        "answer": 3
+    },
+    {
+        "question": "What race does Goku belong to?",
+        "choices": ["Human", "Saiyan", "Namekian", "Majin"],
+        "answer": 1
+    },
+    {
+        "question": "Who kills Frieza on Namek?",
+        "choices": ["Piccolo", "Son Gohan", "Son Goku", "Vegeta"],
+        "answer": 2
+    },
+    {
+        "question": "Who is Krillin and Son Goku's master?",
+        "choices": ["Jackie Chun", "Muten Roshi", "Kami", "King Kai"],
+        "answer": 1
+    },
+    {
+        "question": "Who becomes the guardian of Earth after Kami?",
+        "choices": ["King Kai", "Son Gohan", "Dende", "Piccolo"],
+        "answer": 2
+    },
+    {
+        "question": "How many Dragon Balls are there in total?",
+        "choices": ["5", "7", "9", "3"],
+        "answer": 1
+    },
+    {
+        "question": "What is Son Goku's Saiyan name?",
+        "choices": ["Kakarot", "Bardock", "Broly", "Nappa"],
+        "answer": 0
+    },
+    {
+        "question": "Who is Son Goku's wife?",
+        "choices": ["Bulma", "Chi-Chi", "Videl", "Launch"],
+        "answer": 1
+    },
+    {
+        "question": "Who trained Son Gohan as a child in the wilderness?",
+        "choices": ["Piccolo", "Goku", "Master Roshi", "Krillin"],
+        "answer": 0
+    },
+    {
+        "question": "Who created the Androids?",
+        "choices": ["Frieza", "Dr. Gero", "Bulma", "King Kai"],
+        "answer": 1
+    },
+    {
+        "question": "Which character can regenerate his body parts?",
+        "choices": ["Piccolo", "Goku", "Vegeta", "Krillin"],
+        "answer": 0
+    },
+    {
+        "question": "Who is the first character to ever perform a Kamehameha?",
+        "choices": ["Goku", "Krillin", "Muten Roshi", "Gohan"],
+        "answer": 2
+    },
+    {
+        "question": "Who did Future Trunks warn the Z Fighters about?",
+        "choices": ["Frieza", "Androids", "Broly", "King Cold"],
+        "answer": 1
+    },
+    {
+        "question": "Who does Son Goku defeat in the final round of the 21st World Martial Arts Tournament?",
+        "choices": ["Krillin", "Jackie Chun", "Tien", "Yamcha"],
+        "answer": 1
+    },
+    {
+        "question": "Who is the leader of the Red Ribbon Army?",
+        "choices": ["Commander Red", "General Blue", "Mercenary Tao", "Colonel Violet"],
+        "answer": 0
+    },
+    {
+        "question": "What animal is Muten Roshi's pet companion?",
+        "choices": ["Tiger", "Pig", "Turtle", "Dog"],
+        "answer": 2
+    }
+]

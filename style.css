@@ -1,0 +1,102 @@
+body {
+    font-family: "Bangers", sans-serif;
+    color: #1c4595;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+#result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 48%;
+    bottom: 32%;
+}
+
+.quiz-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #e76a24;
+    border-radius: 5%;
+    width: 90%;
+    height: 800px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.start-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #e76a24;
+    border-radius: 5%;
+    width: 90%;
+    height: 800px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.dragonball-container {
+    display: flex;
+    align-self:center;
+    justify-self: end;
+    position: relative;
+    bottom: -8%;
+
+}
+
+.choices-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 5%;
+}
+
+.choices {
+    display: flex;
+    height: 200px;
+    width: 400px;
+    list-style: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+button { 
+    border-radius: 24px; 
+    width: 150px;
+    height: 50px;
+    background-color: #e7e5e8; 
+    color: #1c4595; 
+    padding: 8px 24px; 
+    font-size: 14px; 
+    font-weight: 700; 
+    text-decoration: none; 
+    margin-top: 16px; }
+
+button:hover {
+    background-color: #fbbc42;
+}
+
+#goku-container {
+    display: flex;
+    justify-content: center;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.hide-none {
+    display: none;
+}
+
+.show {
+    display: initial;
+    opacity: 1;
+    transition: opacity 0.2s linear;
+}

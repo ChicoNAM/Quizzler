@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <title>DBZ Quizzler</title>
+</head>
+<body>
+    <div id="start-screen" class="start-container">
+        <h1 class="animate__animated animate__zoomIn">Welcome to the Dragon Ball Quizzler!</h1>
+        <p>Test your knowledge about Dragon Ball.</p>
+        <div>
+            <button id="start-button">Start Quiz</button>
+        </div>
+    </div>
+    </div>
+    <div id="quiz-container"class="quiz-container hide">
+        <h1 class="animate__animated animate__zoomIn" id="question"></h1>
+        <div class="choices-container">
+            <ul id="choices" class="choices">
+            </ul>
+        </div>
+        <div id="result-container">
+            <img src="./assets/goku_win.gif" width="75" alt="animation of goku winning" class="goku-win-img hide-none" id="goku-win">
+            <img src="./assets/goku_lose.gif" width="75" alt="animation of goku losing" class="goku-lose-img hide-none" id="goku-lose">
+            <p id="result"></p>
+        </div>
+        <div class="dragonball-container">
+            <img src="./assets/dragonballs.png" class="dragonball" alt="image of a dragon ball">
+        </div>
+    </div>
+    <script src="./quiz.js"></script>
+</body>
+</html>
